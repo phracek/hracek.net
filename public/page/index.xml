@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Petr Hráček</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on Petr Hráček</description>
+    <generator>Hugo</generator>
+    <language>cz</language>
+    <managingEditor>phracek@gmail.com (Petr Hráček)</managingEditor>
+    <webMaster>phracek@gmail.com (Petr Hráček)</webMaster>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobilní aplikace</title>
+      <link>http://localhost:1313/page/mobile_apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>phracek@gmail.com (Petr Hráček)</author>
+      <guid>http://localhost:1313/page/mobile_apps/</guid>
+      <description>&lt;p&gt;Vítejte v sekci mobilních aplikací, které vyvýjím pro věřící v České Republice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O mě</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>phracek@gmail.com (Petr Hráček)</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;Webová stránka Petra Hráčka&lt;/p&gt;&#xA;&lt;p&gt;Vítám Vás na webové stránce Petra Hráčka a rodiny Hráčkové.&lt;/p&gt;&#xA;&lt;p&gt;Trocha informací o mně. Žiji v Brně, ale pocházím z Uherského Hradiště. Mám vystudovanou Fakultu Elektrotechniky a Informatiky v Brně.&#xA;A zároveň jsem úspešně dokončil Bakalářský titul z oboru Teologie na Cyrilometodejské Teologické Fakultě Univerzity Palackého.&lt;/p&gt;&#xA;&lt;p&gt;Pracuji ve firmě Red Hat s.r.o. od roku 2013 a zároveň vykonávám jáhenskou činnost jako trvalý jáhen ve farnosti &lt;!-- raw HTML omitted --&gt;Brno – Královo Pole&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

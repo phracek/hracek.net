@@ -64,9 +64,15 @@ pygmentsCodefencesGuessSyntax = true
  strava = "phracek"
 
 [[menu.main]]
-    name = "Blog"
-    url = "page/blog/"
+    identifier = "blogs"
+    name = "Blogs"
     weight = 3
+
+[[menu.main]]
+    parent = "blogs"
+    name = "Moje blogy"
+    url = "post/blogs/"
+    weight = 1
 
 [[menu.main]]
     name = "O mě"

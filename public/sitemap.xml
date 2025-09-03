@@ -4,6 +4,8 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/post/blogs/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/page/mobile_apps/</loc>
@@ -11,6 +13,8 @@
     <loc>http://localhost:1313/page/about/</loc>
   </url><url>
     <loc>http://localhost:1313/page/</loc>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

@@ -1,4 +1,4 @@
-baseurl = "https://phracek.github.io"
+baseurl = "https://hracek.net"
 DefaultContentLanguage = "cz"
 title = "Petr Hráček"
 # Using theme as git submodule
@@ -64,9 +64,15 @@ pygmentsCodefencesGuessSyntax = true
  strava = "phracek"
 
 [[menu.main]]
-    name = "Blog"
-    url = "page/blog/"
+    identifier = "blogs"
+    name = "Blogs"
     weight = 3
+
+[[menu.main]]
+    parent = "blogs"
+    name = "Moje blogy"
+    url = "post/blogs/"
+    weight = 1
 
 [[menu.main]]
     name = "O mě"

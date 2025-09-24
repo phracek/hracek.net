@@ -2,7 +2,7 @@ baseurl = "https://hracek.net"
 DefaultContentLanguage = "cz"
 title = "Petr Hráček"
 # Using theme as git submodule
-# theme = "beautifulhugo"
+theme = "beautifulhugo"
 # Or when using theme as hugo module
 # theme = "github.com/halogenica/beautifulhugo"
 pygmentsStyle = "trac"

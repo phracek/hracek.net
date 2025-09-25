@@ -75,7 +75,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 
 [[menu.main]]
-    name = "O mě"
+    name = "O mně"
     url = "page/about/"
     weight = 1
 

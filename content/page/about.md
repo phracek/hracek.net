@@ -1,6 +1,6 @@
 ---
-title: O mě
-subtitle: Bližší informace o mě
+title: O mně
+subtitle: Bližší informace o mně
 comments: false
 ---
 
